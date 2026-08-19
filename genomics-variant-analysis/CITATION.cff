@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Genomics Variant Analysis — Consanguineous Case"
+authors:
+  - family-names: "Bavandi"
+    given-names: "Sobhan"
+version: "1.0.0"
+date-released: "2026-08-19"
+message: "If you use this repository or its analysis workflow, please cite the author and repository."
