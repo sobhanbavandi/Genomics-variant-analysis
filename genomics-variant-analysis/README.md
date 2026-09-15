@@ -1,7 +1,7 @@
 # Genomics Variant Analysis — Consanguineous Case (SNPs/INDELs, ANNOVAR hg19)
 
 **Author:** Sobhan Bavandi ([ORCID: 0009-0008-7917-9459](https://orcid.org/0009-0008-7917-9459))
-**Affiliations:** Genomics Research Laboratory(IRAN); Helix Institute(USA)
+**Affiliations:** Genomics Research Laboratory(IRAN)https://www.genomicslaboratory.ir ; Helix Institute(USA) https://www.helixinstitute.us/
 
 Bioinformatics coursework project: prioritizing candidate causal variants
 from a single-sample ANNOVAR-annotated VCF (SNPs + indels, hg19), for a
